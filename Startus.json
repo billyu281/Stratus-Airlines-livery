@@ -31,7 +31,7 @@
 	 {
                     "name": "Stratus Airways 737-700",
                     "texture": [
-                        "/models/aircraft/premium/737/specular.jpg"
+                        "https://www.geo-fs.com/models/aircraft/premium/737_700/specular.jpg"
                         "https://i.imgur.com/m9fpkSR.jpeg"
                        
                     ],
@@ -93,7 +93,7 @@
  	{
                     "name": "Stratus Airways A380-800",
                     "texture": [
-                        "/models/aircraft/premium/a380/specular.jpg"
+                        "https://www.geo-fs.com/models/aircraft/premium/a380/specular.jpg"
                         "https://i.imgur.com/GjORX2q.jpeg",
                     ],
                     "credits": "Jeffa"
@@ -205,7 +205,7 @@
                 {
                     "name": "Stratus Airways A350-900",
                     "texture": [
-                        "/models/aircraft/premium/a350/specular.jpg"
+                        "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg"
                         "https://i.imgur.com/1YatuWc.jpeg"
                     ],
                     "credits": "Jeffa"
@@ -222,7 +222,7 @@
   	{
                     "name": "Stratus Airways 777-300ER",
                     "texture": [
-                        "/models/aircraft/premium/777/specular.jpg"
+                        "https://www.geo-fs.com/models/aircraft/premium/777_300/specular_0.jpg"
                         "https://i.imgur.com/4ZDvo6h.jpeg"
                     ],
                     "credits": "Jeffa"
